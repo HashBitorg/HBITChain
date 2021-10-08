@@ -35,7 +35,7 @@ We will soon add the functionality to interact with local software.
   - `sh ./start.sh`
 
   - Windows 10
-  - `Download Latest Release https://github.com/HashBitorg/HBITChain/releases/download/1.00.00/HBITChain_1.00.00.zip`
+  - `Download Latest Release https://github.com/HashBitorg/HBITChain/releases/download/1.00.00F/HBITChain_1.00.00.zip`
   - `unzip on your PC`
   - `Enter in the unzipped dir and double click on run.bat`
 
