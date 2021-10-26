@@ -1,5 +1,5 @@
 # HBITChain
-Run HashBit Blockchain Node [HBIT] - https://hashbit.org
+Run HashBit Blockchain Node [HBIT] - https://chain.hashbit.org
 
 ----
 ## What is HBIT? ##
