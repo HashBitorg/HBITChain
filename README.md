@@ -1,5 +1,5 @@
 # HBITChain
-Run HashBit Blockchain Node [HBIT] - https://chain.hashbit.org
+Run HashBit Blockchain Node [HBIT] - https://hashbit.org
 
 ----
 ## What is HBIT? ##
@@ -14,8 +14,7 @@ You can find all the details on the Official website and directly in the FrontEn
   - Run with sh ./start.sh (Linux) or run.bat (Windows).
 
   - Remember to open port 11119 and 11120 to support the network.
-At the moment the blockchain is always and only accessed on https://chain.hashbit.org.
-We will soon add the functionality to interact with local software.
+At the moment the blockchain is always and only accessed on https://hashbit.org.
 
 ----
 ## Setting up Node and Help Network ##
@@ -44,7 +43,7 @@ Required Java JRE for Windows
 ## Further Reading ##
 
     - Official Website: https://hashbit.org
-    - Click Wiki on https://chain.hashbit.org for all Detailed Informations.
+    - Click Wiki on https://hashbit.org for all Detailed Informations.
 
 ----
 
