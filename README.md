@@ -28,9 +28,9 @@ At the moment the blockchain is always and only accessed on https://hashbit.org.
   - `sudo apt-get install wget`
   - `sudo apt-get install zip`
   - `sudo apt-get install dos2unix`
-  - `wget https://github.com/HashBitorg/HBITChain/releases/download/1.00.00/HBITChain_1.00.00.zip`
-  - `unzip HBITChain_1.00.00.zip`
-  - `cd HBITChain_1.00.00`
+  - `wget https://github.com/HashBitorg/HBITChain/releases/download/1.25.10/HBITChain_1.25.10.zip`
+  - `unzip HBITChain_1.25.10.zip`
+  - `cd HBITChain_1.25.10`
   - `dos2unix start.sh`
   - `sh ./start.sh`
 
